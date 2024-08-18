@@ -1,4 +1,4 @@
-# 15. Docker Desktop - Mismos comandos ejecutados
+# Docker Desktop - Mismos comandos ejecutados
 
 ### **Docker Desktop: Interfaz Gráfica vs. Línea de Comandos**
 
